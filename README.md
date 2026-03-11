@@ -68,13 +68,9 @@ Passionate Software Engineering student focused on mobile development, programmi
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=hamza-khaliq&show_icons=true&theme=tokyonight&hide_border=true"/>
 <br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-khaliq&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
