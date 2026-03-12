@@ -58,10 +58,8 @@ and continuously learning new technologies to build impactful solutions.
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzakhaliq921&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzakhaliq921&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 <h2 align="center">👨‍💻 About Me</h2>
 
