@@ -60,7 +60,14 @@ and continuously learning new technologies to build impactful solutions.
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Hamzakhaliq921&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1"/>
 </p>
+<p align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzakhaliq921&theme=tokyonight&hide_border=true"/>
+
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzakhaliq921&theme=tokyonight&hide_border=true" alt="Hamza's GitHub Streak" />
+</p>
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
