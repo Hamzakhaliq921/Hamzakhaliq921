@@ -58,19 +58,14 @@ and continuously learning new technologies to build impactful solutions.
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Hamzakhaliq921&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1"/>
+<img src="https://streak-stats.demolab.com?user=Hamzakhaliq921&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2"/>
 </p>
-<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzakhaliq921&theme=tokyonight&hide_border=true"/>
+## 📈 Contribution Graph
 
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzakhaliq921&theme=tokyonight&hide_border=true" alt="Hamza's GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzakhaliq921&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hamzakhaliq921&theme=tokyo-night)
+
+
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
