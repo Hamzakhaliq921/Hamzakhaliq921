@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=Hamza%20Khaliq&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student%20|%20Aspiring%20Developer&descAlignY=60&descSize=22"/>
 </p>
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3500&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=Software+Engineer+Student;Passionate+About+Web+Development;Building+Modern+Applications;Exploring+Different+Tech+Stacks;Always+Learning+New+Technologies" />
