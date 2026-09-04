@@ -50,10 +50,16 @@ and continuously learning new technologies to build impactful solutions.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50"/>
 </p>
+
 <h2 align="center">📊 GitHub Statistics</h2>
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Hamzakhaliq921&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Hamzakhaliq921&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
