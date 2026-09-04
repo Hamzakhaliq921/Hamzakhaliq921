@@ -8,7 +8,6 @@
 </p>
 ---
 <h2 align="center">👋 Welcome to My GitHub </h2>
-
 <p align="center">
 Aspiring Software Engineer passionate about web development, creating modern applications, 
 and continuously learning new technologies to build impactful solutions.
